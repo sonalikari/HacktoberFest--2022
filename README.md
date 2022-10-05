@@ -1,5 +1,5 @@
 # HacktoberFest--2022
-<h1 align="center"><img src="https://github.com/raktimbar100/HACKTOBERFEST-2022/blob/main/ymlmr15l83rrjq8natft.jpg"></h1>
+<h1 align="center"><img src="https://github.com/sonalikari/HacktoberFest--2022/blob/main/Hacktoberfest.png"></h1>
  
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> HACKTOBERFEST 2022 IS HERE :bangbang::bangbang::bangbang:
 
