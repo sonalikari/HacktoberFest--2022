@@ -8,7 +8,7 @@
 :diamonds: Hacktoberfest is a month-long challenge. It happens every year in the month of October.
   Hacktoberfest is open to everyone and it marks the celebration of **Open Source.** It's the biggest Open Source event that encourages newbies to participate in Open Source and     create their 1st meaningful PR.
   
-  <h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
+  <h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif' width="200px"></h1>
   🏆 🏆 Rewards : 🏆🏆
 
 You get some awesome goodies which include A limited-edition T-shirt  for **FREE!** and some stickers.
