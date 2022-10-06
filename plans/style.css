@@ -5,6 +5,9 @@
     width: 1170px;
     margin: 0 auto;
 }
+a{
+    text-decoration: none;
+}
 .price-table {
     width: 100%;
     border-collapse: collapse;
