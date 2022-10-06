@@ -75,6 +75,10 @@ This year, the first 40,000 participants can earn a T-shirt.
     8. Once you push the changes to your repository, the Compare & pull request button will appear in GitHub
     9. Click it and you'll be taken to this screen
     10. Type a proper description and give the PR an appropriate title(Portfolio1, Portfolio2, Portfolio3 etc..). Finally, Open a pull request by clicking the Create pull request button.
+    
+    
+## License
+For more information on licensing, please refer to [License](https://github.com/sonalikari/HacktoberFest--2022/blob/main/LICENSE)
    
 ***
 <h2 align="center">
