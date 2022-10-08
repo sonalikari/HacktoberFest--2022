@@ -3,7 +3,7 @@
     box-shadow: 0 0 24px rgba(0, 0, 0, 0.15);
     font-family: "Open Sans";
     width: 1170px;
-    margin: 0 auto;
+    margin: 2rem auto;
 }
 a{
     text-decoration: none;
@@ -48,10 +48,6 @@ a{
     background-color: rgba(216, 214, 227, 0.15);
     padding: 8px 48px;
 }
-.price-table tr td:nth-child(3) .fa-check,
-.price-table tr:nth-child(2n) td:nth-child(3) .fa-check {
-    /* color: #ffffff; */
-}
 /**/
 
 .price-table tr.price-table-head td {
@@ -83,7 +79,8 @@ a{
     display: inline-block;
     border-radius: 64px;
 }
-.price-table td.price-table-popular {
+
+.price-table .price-blank ,.price-table-popular{
     font-family: "Montserrat";
     border-top: 3px solid #5336ca;
     color: #5336ca;
@@ -100,4 +97,10 @@ a{
 .price-table svg {
     width: 90px;
     fill: #5336ca;
+}
+
+/* first column section */
+td{
+    font-size: 2rem;
+
 }
