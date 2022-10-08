@@ -1,1 +1,228 @@
+body{
+    background-color: #BFA58E;
+    font-style: normal;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px !important;
+    padding: 0px;
+}
+html{
+    scroll-behavior: smooth;
+}
+li{
+    display: inline;
+    font-size: 25px;
+    padding: 8px;
+    margin-top: 10px;
+    padding: 10px;
+}
+ul{
+    margin-top: 0px;
+    text-align: right;
+    margin-right: 23px;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-style: bold;
+}
+
+
+
+
+
+/* design for classes */
+
+
+/* Navbar */
+
+.navbar{
+    background-color: #DB7F2E;
+    margin-top: 0px;
+    height: 60px;
+}
+
+
+
+.greeting{
+    font-size: 50px;
+    margin-bottom: 8px;
+    padding: 4px;
+
+}
+.name{
+    font-size: 50px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+
+}
+.position{
+    font-size: 50px;
+    margin-top: 7px;
+}
+
+.intro{
+    padding: 20px;
+    width: 40%;
+    text-align: left;
+    display: inline-block;
+}
+
+.profile{
+    display: inline-block;
+}
+.profile-image{
+    width: 50%;
+    margin-left: 20px;
+}
+
+/* Horizontal rule */
+
+.rule{
+    width:20%;
+    text-align: center;
+    align-items: center;
+
+}
+
+
+/* About me section */
+
+.aboutMe > h3{
+    text-align: center;
+    font-size: 30px;
+}
+
+.education{
+    text-align: center;
+    display: inline-block;
+    width: 50%;
+}
+
+.intrest{
+    text-align: center;
+    /* display: inline-block; */
+    width: 50%;
+    float: right;
+}
+
+.education > h2{
+    margin-top: 3px;
+}
+
+
+/* Technical Skills */
+
+
+.tech-skill-head{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.skill{
+    padding: 20px;
+    /* text-align: center; */
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.skill-name{
+    display: inline-block;
+    text-align: center;
+    font-size: xx-large;
+    margin-left: 28%;
+    padding: 10px;
+}
+
+.img{
+    width: 34%;
+    margin: auto auto;
+    text-align: center;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.skill-div{
+    display: inline-block;
+}
+
+.div{
+    display: inline-block;
+    width: 100%;
+}
+/* 
+.exp{
+    display: flex;
+    flex-direction: row;
+} */
+
+
+/* Socials section */
+
+.socials{
+    background-color: #DB7F2E;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.social-heading{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+.socials-img{
+    width: 60px;
+    margin: 15px;
+    padding-bottom: 20px;
+}
+
+
+/* Media Queries */
+
+@media (max-width:480px){
+
+    a{
+        font-size: 20px;
+    }
+
+    li{
+        font-size: 17px;
+    }
+    .social-link{
+        display: none;
+    }
+    .name{
+        font-size: 35px;
+    }
+    .position{
+        font-size: 35px;
+    }
+    .intro{
+        width: 70%;
+    }
+    .profile-image{
+        width: 30%;
+        text-align: center;
+        margin-left: 35%;
+    }
+    .education{
+        display: block;
+        width: 100%;
+    }
+    .intrest{
+        display: block;
+        width: 100%;
+    }
+    .img{
+        width: 50%;
+    }
+    .socials-img{
+        width: 35px;
+    }
+
+}
 
