@@ -1,7 +1,9 @@
-
+body{
+    font-family: 'Roboto', sans-serif;
+}
 .main {
     box-shadow: 0 0 24px rgba(0, 0, 0, 0.15);
-    font-family: "Open Sans";
+    /* font-family: "Open Sans"; */
     width: 1170px;
     margin: 2rem auto;
 }
@@ -103,4 +105,10 @@ a{
 td{
     font-size: 2rem;
 
+}
+
+.transition:hover{
+    transform: translateY(-0.4em);
+    transition: transform 300ms;
+    box-shadow: 0.1em 0.1em 0.4em 0.4em  rgba(83, 54, 202, 0.5);
 }
