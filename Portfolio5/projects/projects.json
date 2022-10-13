@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Waste Management System",
+    "desc": "This Waste Management System is a web application aimed to provide a digital way of complaining the concerns of general citizens to their relative municipalities. ",
+    "image": "capture",
+    "category": "full stack",
+    "links": {
+      "view": "https://waste-managemnt-system.000webhostapp.com/",
+      "code": "https://github.com/imlakshay08/Waste-Management-System"
+    }
+  },
+  {
+    "name": "Email/SMS Detection System",
+    "desc": "This is an Email/SMS spam detection system classifies messages you recieve on emails and sms as spam or not spam. ",
+    "image": "spam",
+    "category": "data science",
+    "links": {
+      "code": "https://github.com/imlakshay08/Email_SMS-Spam-Detection-System"
+    }
+  },
+  {
+    "name": "ShareMe(in progress)",
+    "desc": "A full stack social media web-application made using React, Tailwind CSS and Sanity.",
+    "image": "favicon",
+    "category": "full stack",
+    "links": {
+      "code": "https://github.com/imlakshay08/ShareMe"
+    }
+  },
+  {
+    "name": "Custom Video Player",
+    "desc": "A basic video-player built using JavaScript, HTML and CSS. Access the video-player - ",
+    "image": "favicon2",
+    "category": "frontend",
+    "links": {
+      "view": "https://imlakshay08.github.io/Video-Player-using-JavaScript/",
+      "code": "https://github.com/imlakshay08/Video-Player-using-JavaScript"
+    }
+  },
+  {
+    "name": "Personal Portfolio",
+    "desc": "My personal portfolio website, build using HTML5, CSS3, JavaScript and jQuery. ",
+    "image": "portfolio1",
+    "category": "frontend",
+    "links": {
+      "view": "https://imlakshay08.netlify.app/",
+      "code": "https://github.com/imlakshay08/PersonalPortfolio"
+    }
+  },
+  {
+    "name": "Pong Game",
+    "desc": "It is a simple pong game built using Java",
+    "image": "pong",
+    "category": "java",
+    "links": {
+      "view": "https://user-images.githubusercontent.com/77228428/190872810-9b564f0c-4171-4336-9fe6-7098aec247bc.mp4",
+      "code": "https://github.com/imlakshay08/Java-Pong-Game"
+    }
+  }
+]
