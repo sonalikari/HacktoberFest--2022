@@ -63,18 +63,75 @@ This year, the first 40,000 participants can earn a T-shirt.
 -   Create a Portfolio Website.
 -   Technology Used:- HTML, CSS, BOOTSTRAP, JavaScript & Reactjs.
 
-## Steps For Contribution
 
-    1. Star this repo
-    2. Fork this repo
-    3. Clone the forked repo
-    4. Create a new branch
-    5. Open the folder in your favourite code editor and add your code
-    6. Commit the code
-    7. Push the code <your-created-branch-name>
-    8. Once you push the changes to your repository, the Compare & pull request button will appear in GitHub
-    9. Click it and you'll be taken to this screen
-    10. Type a proper description and give the PR an appropriate title(Portfolio1, Portfolio2, Portfolio3 etc..). Finally, Open a pull request by clicking the Create pull request button.
+## Contributing - Open Source
+
+**1.** Fork the repository.
+
+**2.** Clone your forked copy of the project into your local system.
+
+```
+git clone --depth 1 https://github.com/yourusername/HacktoberFest--2022.git
+```
+
+**3.** Navigate to the project directory. 📁
+
+```
+cd Hacktoberfest--2022
+```
+
+**4.** Add a reference (remote) to the original repository.
+
+```
+git remote add upstream https://github.com/sonalikari/HacktoberFest--2022.git
+```
+
+**5.** Check the remotes for this repository.
+
+```
+git remote -v
+```
+
+**6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project (updated repository).
+
+```
+git pull upstream main
+```
+
+**7.** Create a new branch.
+
+```
+git checkout -b pr1
+```
+
+**8.** Search the "issue-finder" folder, add the modified HTML and CSS files and remove the previous ones.
+
+**9.** Track your changes. ✔️
+
+```
+git add .
+```
+
+**10.** Commit your changes.
+
+```
+git commit -m "pulled my first PR"
+```
+
+**11.** Push the committed changes in your feature branch to your remote repository.
+
+```
+git push -u origin pr1
+```
+
+**12.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repository you are supposed to make a PR to.
+
+**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
+
+**14.** Click on `Create Pull Request`.
+
+**15.** Voila! You have made a PR to the project. Sit back and relax while your PR is reviewed by the maintainers.
+
     
     
 ## License
