@@ -1,0 +1,181 @@
+body{
+    margin: 0px;
+    background: repeating-linear-gradient(120deg,rgb(248, 30, 66),pink,white,rgb(225, 117, 252),rgb(4, 214, 241))
+}
+.font-size{
+    font-size: 6rem;
+}
+
+#body-header{
+    height: 65vh;
+    opacity: 0.8;
+    background-image: url(Web-Dev.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+#about{
+    
+    height: auto;
+    width: 100%;
+    position: relative; 
+   text-align: center;
+   font-size: 2rem;
+}
+#my-image{
+   
+    height: 12rem;
+    width: 12rem;
+    margin-left: 46%;
+    margin-top: -15vh;
+    
+  
+}
+
+#my-image img{
+    
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    border-style:ridge;
+    
+}
+
+#skills{ font-size: 20px;
+    color: rgb(3, 104, 99);
+    font-weight: 800;
+   text-align: center;
+    margin-top: 15%;
+    
+}
+#myskills{
+    color: rgb(182, 76, 76);
+   font-style: oblique;
+  font-size: 25px;
+  margin-bottom: 2px solid black;
+  
+}
+
+#experience{ font-size: 20px;
+    color: rgb(3, 104, 99);
+    font-weight: 800;
+   text-align: center;
+
+}
+#myexp{
+    color: rgb(182, 76, 76);
+    font-style: oblique;
+   font-size: 25px;
+}
+#education{ font-size: 20px;
+    color: rgb(3, 104, 99);
+    font-weight: 800;
+   text-align: center;
+    
+    
+}
+#myedu{
+    color: rgb(182, 76, 76);
+    font-style: oblique;
+   font-size: 25px;
+
+}
+#portfolio{ font-size: 20px;
+    color: rgb(3, 104, 99);
+    font-weight: 800;
+   text-align: center;
+}
+#contact{ font-size: 20px;
+    color: rgb(3, 104, 99);
+    font-weight: 800;
+   text-align: center;
+}
+.widget{
+    height: 250px;
+    width: 190px;
+    background: repeating-linear-gradient(120deg,yellow,cyan,rgb(224, 91, 224));
+    padding-left: 10px;
+    border:solid ;
+    position: absolute; top:33rem;
+}
+
+main{
+    width: 90%;
+    display : inline-block;
+
+}
+aside{
+    width: 8%;
+   
+  
+  float: right;
+  font-style: italic;
+}
+
+ 
+
+.horizontal-list{
+    list-style:none;
+    padding-left: 0px;
+
+}
+.horizontal-list li{
+    display: inline-block;
+    margin: 0px 36px 36px 0px;
+}
+.horizontal-list li a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    transition: color 0.5s,boder-bottom 4s;
+}
+.horizontal-list li a:hover{
+    color:yellowgreen;
+    font-size: 40px;
+    border-bottom: 4px solid yellowgreen;
+    transition: color 1s;
+  
+}
+.text-centre{
+    text-align:center ;
+}
+#my-name{
+    font-size: 45px;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0.4rem;
+}
+.social-icons li a{
+    padding: 5px;
+    border-radius: 30%;
+}
+.social-icons li a:hover{
+    box-shadow: 0px 0px 6px 4px white;
+    color: gray;
+    border-bottom: 1px solid;
+}
+#submit-button{
+    background:rgb(196, 192, 192);
+    color:rgb(36, 36, 36);
+    border:1pxsolid#eee;
+    border-radius:10px;
+   
+}
+myemail{
+    font-size: 25px;
+    color: rgb(182, 76, 76);
+}
+#submit-button:hover{
+    background:#016ABC;
+    color:#fff;
+    border:1pxsolid#eee;
+    border-radius:10px;
+   
+}
+section:active{
+    background-color:yellowgreen;
+}
+section:target{
+    
+    background: radial-gradient(rgb(225, 131, 248),cyan,yellowgreen);
+}
